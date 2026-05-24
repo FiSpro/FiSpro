@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Filip, I am 25 years old and I am currently living in Koper, Slovenia. I graduated in Computer Science at [UP FAMNIT](https://www.famnit.upr.si/en/) in 2023 with a degree: B.Sc. in Computer Science.
+Hi there! My name is Filip, I am 26 years old and I am currently living in Koper, Slovenia. I graduated in Computer Science at [UP FAMNIT](https://www.famnit.upr.si/en/) in 2023 with a degree: B.Sc. in Computer Science.
 
 # 💼 Work Experience:
 From July to August 2023, I was part of the Summer Camp at [Dinit](https://www.dinitcs.com/), which gave me an opportunity to learn and introduced me to new technologies and challenges.
